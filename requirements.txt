@@ -1,0 +1,2 @@
+ocs-academic-hub==1.0.0
+plotly
